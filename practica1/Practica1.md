@@ -1,3 +1,4 @@
+
 ESTRUCTURAS DISCRETAS --- PRÁCTICA 1
 
 
@@ -6,19 +7,19 @@ ACTIVIDAD 2
 
 1.- ¿Cuáles son las principales diferencias entre Haskell y RACKET?
 
-La sintaxis es diferente mientras Haskell usa indentación para determinar la estructura del programa y su notación es infija, por otro lado Racket usa en gran medida los paréntesis y la notación prefija.
+Respecto a la sintaxis Haskell usa indentación para determinar la estructura del programa y su notación es infija, por otro lado Racket usa en gran medida los paréntesis y la notación prefija.
 Haskell es un lenguaje con tipado estático, mientras que Racket tiene tipado dinámico, donde el tipo de una variable se determina en tiempo de ejecución.
 Haskell es un lenguaje de programación funcional, inmutable(no se cambia el estado una vez dado), mientras que Racket es un lenguaje multi-paradigma usanso múltiples estilos como la imperativa, funcional y orientada a objetos.
 
 2.-¿Cuáles son las principales diferencias entre Haskell y Java?
 
-Java tiene un vasto ecosistema de bibliotecas con una amplia variedad de librerías y frameworks para casi cualquier caso de uso posible.
-Por otro lado, Haskell tiene un ecosistema de bibliotecas más reducido debido a su uso más especializado.
-Java es un lenguaje de programación orientado a objetos y Haskell es un lenguaje de funcional basandose en funciones matemáticas recibiendo argumentos de entrada y devuelve valores de salida.
+Java tiene una gran cantidad de bibliotecas con una amplia variedad de librerías y frameworks para casi cualquier caso de uso posible,
+pero Haskell tiene un ecosistema de bibliotecas más reducido debido a su tipo de  uso más especializado.
+Java es un lenguaje de programación orientado a objetos y Haskell es un lenguaje de funcional basandose en funciones matemáticas recibiendo argumentos de entrada y devolviendo valores de salida.
 
-Java tiene un sistema de tipos estático, así que el tipo de una variable se determina en tiempo de compilación, pero Haskell, tiene un sistema de tipo
+Java tiene un sistema de tipos estático, así el tipo de una variable se determina en tiempo de compilación, pero Haskell tiene un sistema de tipo
 fuerte y estático con inferencia de tipos, es decir, que el tipo de una variablese determina automáticamente por el compilador según su uso. 
-En Java se declarar explícitamente el tipo de una variable antes de usarla y en Haskell, se pueden usar variables sin declararsu tipo y el compilador inferirá el tipo en función de cómo se utiliza la variable.
+En Java se declarar explícitamente el tipo de una variable antes de usarla y en Haskell se pueden usar variables sin declarar su tipo y el compilador inferirá el tipo en función de cómo se utiliza la variable.
 
 3.- ¿Por qué Haskell no ha alcanzado una adopción significativa en la industria del software?
 
@@ -38,7 +39,6 @@ Git es mi tarea con sus diferentes versiones (versión 1, versión 1.1 y versió
 GitHub es como subir todas esas versiones a Classroom para guardarlas en línea y compartirlas con el profesor o mis compañeros.
 
 
-
 FORMATO APPA:
 
 
@@ -53,3 +53,4 @@ Tema 2: Introducción a la programación con Haskell. (n.d.). Cs.Us.Es. Retrieve
 (N.d.-a). Stackshare.Io. Retrieved February 17, 2026, from https://stackshare.io/stackups/haskell-vs-racket
 
 (N.d.-b). Runestone.Academy. Retrieved February 17, 2026, from https://runestone.academy/ns/books/published/pythoned/BasicDS/ExpresionesInfijasPrefijasYSufijas.html
+
